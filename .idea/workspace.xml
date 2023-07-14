@@ -70,7 +70,35 @@
       <option name="project" value="LOCAL" />
       <updated>1689319853818</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Masuk">
+      <created>1689320527522</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1689320527522</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Masuk">
+      <created>1689320561232</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1689320561232</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Masuk">
+      <created>1689320725759</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1689320725759</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Masuk">
+      <created>1689320824791</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1689320824791</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,6 +113,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="Gas" />
     <MESSAGE value="Masuk" />
     <option name="LAST_COMMIT_MESSAGE" value="Masuk" />
   </component>
